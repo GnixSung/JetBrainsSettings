@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.1.5-2018.1" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="fileStatusColorsEnabled" value="true" />
+    <option name="userId" value="3fc4e6bd:1648c9bcb35:-8000" />
+    <option name="allowDataCollection" value="true" />
+  </component>
+</application>

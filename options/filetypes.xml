@@ -1,0 +1,42 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="0930记录" type="PLAIN_TEXT" />
+      <mapping pattern="环境配置" type="PLAIN_TEXT" />
+      <mapping pattern="error_code_desc" type="PLAIN_TEXT" />
+      <mapping pattern="单例模式" type="PLAIN_TEXT" />
+      <mapping pattern=".env_test" type="PLAIN_TEXT" />
+      <mapping pattern=".env_pro" type="PLAIN_TEXT" />
+      <mapping pattern="TeamCountData" type="PLAIN_TEXT" />
+      <mapping pattern="team_error_code_desc" type="PLAIN_TEXT" />
+      <mapping pattern="笔记" type="PLAIN_TEXT" />
+      <mapping pattern="event_201776" type="PLAIN_TEXT" />
+      <mapping pattern="S8matchesList" type="PLAIN_TEXT" />
+      <mapping pattern="first_tower" type="PLAIN_TEXT" />
+      <mapping pattern="league_info" type="PLAIN_TEXT" />
+      <mapping pattern="matchGameResult" type="PLAIN_TEXT" />
+      <mapping pattern="ErrorCode" type="PLAIN_TEXT" />
+      <mapping pattern="insert" type="PLAIN_TEXT" />
+      <mapping pattern="ps_matches_info" type="PLAIN_TEXT" />
+      <mapping pattern="比赛结束后的数据（5秒内）" type="PLAIN_TEXT" />
+      <mapping pattern="swoole_step" type="PLAIN_TEXT" />
+      <mapping pattern="GameResultInfo" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="eventExt" type="PLAIN_TEXT" />
+      <mapping pattern="环境" type="PLAIN_TEXT" />
+      <mapping pattern=".env_dev" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".evn" type="PLAIN_TEXT" />
+      <mapping pattern="error" type="PLAIN_TEXT" />
+      <mapping pattern="TeamData" type="PLAIN_TEXT" />
+      <mapping pattern="matches" type="PLAIN_TEXT" />
+      <mapping pattern="PandaScore注册" type="PLAIN_TEXT" />
+      <mapping ext="icls" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="partial" type="PLAIN_TEXT" />
+      <mapping ext="proc" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

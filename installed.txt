@@ -1,0 +1,6 @@
+ColorIde
+cn.yiiguxing.plugin.translate
+com.chrisrm.idea.MaterialThemeUI
+me.fingerart.idea.apidebugger
+net.vektah.codeglance
+ru.adelf.idea.dotenv
